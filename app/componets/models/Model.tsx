@@ -87,7 +87,7 @@ const Model: React.FC<ModelProps> = ({
                       xl:w-2/5
                       my-6
                       mx-auto
-                      h-full
+                      h-auto
                       lg:h-auto
                       md:h-auto
                   "
